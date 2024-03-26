@@ -1,0 +1,16 @@
+
+.mainPage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.main > h3 {
+    display: inherit;
+}
+
+.nameDiv:hover {
+    background-color: purple;
+    color: #fff;
+}
