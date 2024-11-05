@@ -3,7 +3,7 @@ export const projects = [
     id: 1,
     title: "Car Showcase",
     description: "Designed to help users make informed decisions about cars. Built using nextjs, typescript and tailwindcss.",
-    live: "https://car-showcase-hp8v.vercel.app/",
+    live: "https://car-showcase-nextjs-seven.vercel.app/",
     code: `https://github.com/Wahrith/Car_Showcase`,
   },
   {
@@ -16,6 +16,22 @@ export const projects = [
   },
   {
     id: 3,
+    title: "Hotels",
+    description:
+      "Built to display hotels around a user's location. Designed with React and CSS",
+    live: "https://hotels-two-delta.vercel.app/",
+    code: `https://github.com/Wahrith/hotels`,
+  },
+  {
+    id: 4,
+    title: "Tempo",
+    description:
+      "Created for tempo products",
+    live: "https://tempo-warith-hameens-projects.vercel.app/",
+    code: `https://github.com/Wahrith/tempo`,
+  },
+  {
+    id: 5,
     title: "Tenzies Game",
     description:
       "A game with a 10 dice where a user keeps selecting a die till they are all the. Built with React and Css",
@@ -23,7 +39,7 @@ export const projects = [
     code: `https://github.com/Wahrith/Tenzies_Game`,
   },
   {
-    id: 4,
+    id: 6,
     title: "Memes Template",
     description:
       "An app where a user can generate personalized memes. Build with React and Css",
